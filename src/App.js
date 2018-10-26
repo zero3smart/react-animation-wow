@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Feed from './components/Feed';
-import $ from 'jquery';
 import 'bootstrap/dist/js/bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';

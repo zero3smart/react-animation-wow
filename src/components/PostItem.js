@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { Card, CardActions, CardHeader, CardMedia, CardTitle, CardText } from 'material-ui/Card';
+import { Card, CardHeader, CardMedia, CardText } from 'material-ui/Card';
 import Grid from '@material-ui/core/Grid';
-import $ from 'jquery';
 import WOW from 'wowjs';
 
 class PostItem extends Component {

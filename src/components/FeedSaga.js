@@ -1,5 +1,4 @@
 import { call, put, takeEvery } from 'redux-saga/effects';
-import { delay } from 'redux-saga';
 import { GET_FEED_DATA, GET_FEED_DATA_SUCCEEDED, GET_FEED_DATA_FAILED } from './FeedTypes';
 import FeedService from './FeedService';
 
